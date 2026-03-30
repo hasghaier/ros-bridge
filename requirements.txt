@@ -1,5 +1,6 @@
 pep8
 autopep8
+carla==0.9.15
 pylint
 transforms3d
 pygame
